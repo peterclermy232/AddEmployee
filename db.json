@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "peterclermy",
+      "lastName": "atito",
+      "email": "peter@gmail.com",
+      "mobile": 712345678,
+      "salary": 34000
+    },
+    {
+      "id": 2,
+      "firstName": "peter",
+      "lastName": "atito",
+      "email": "peter@gmail.com",
+      "mobile": 712345678,
+      "salary": 34000
+    },
+    {
+      "id": 3,
+      "firstName": "peter",
+      "lastName": "Atito",
+      "email": "peterclermy@gmail.com",
+      "mobile": 718104222,
+      "salary": 60000
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "peter Atito",
+      "email": "peteratito@gmail.com",
+      "password": "2999999",
+      "mobile": 718104222,
+      "id": 1
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "2999999",
+      "mobile": "",
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
